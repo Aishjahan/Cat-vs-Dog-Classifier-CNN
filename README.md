@@ -82,8 +82,6 @@ After training, the script will generate plots for:
 2. Modify the code to load and preprocess your images.
 3. Use the trained model to predict whether the image is a cat or a dog.
 
-### Visualizations
-Sample plots of accuracy and loss:
 
 
 
