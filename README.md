@@ -27,7 +27,7 @@ Before running this project, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cats-vs-dogs-classifier.git
+   git clone https://github.com/Aishjahan/Cat-vs-Dog-classifier-CNN.git
    cd cats-vs-dogs-classifier
    ```
 2. Install the required Python packages:
